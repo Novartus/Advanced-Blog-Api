@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "5e2181af5b6c4989c888879f",
+    "firstName": "Guest1",
+    "lastName": "Guest",
+    "email": "guest@yopmail.com",
+    "password": "KcRwv7jrVf",
+    "role": "guest"
+  },
+
+  {
+    "_id": "5e2181af5b6c4989c88887a0",
+    "firstName": "Novartus",
+    "lastName": "Kenway",
+    "email": "Novartus@mail.com",
+    "password": "u4I218n",
+    "role": "admin"
+  }
+]
